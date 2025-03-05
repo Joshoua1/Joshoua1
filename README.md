@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-🔭 I'm currently working as a Full Stack Developer and Data Analyst
-👯 I'm looking for collaborations
-🤝 I'm open to help with various tech projects
-🌱 I'm continuously expanding my skills in Web Development and Data Analysis
+🔭 I'm currently working as a Full Stack Developer and Data Analyst<br>
+👯 I'm looking for collaborations<br>
+🤝 I'm open to help with various tech projects<br>
+🌱 I'm continuously expanding my skills in Web Development and Data Analysis<br>
 💬 Ask me about Full Stack Development, UI/UX, Machine Learning, Data Analysis, and Python
 
 # 💻 Tech Stack:

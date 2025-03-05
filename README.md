@@ -15,3 +15,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Joshoua1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<div align = "center">
+  <img hight="200" src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThmMjQ5ejQ4MzhwcThkZGFrOTBzenFlaG45eWhrNzVreXFhOGJrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
+</div>
